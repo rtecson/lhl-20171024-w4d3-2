@@ -35,9 +35,6 @@
 
 #pragma mark - IBActions
 
-- (IBAction)testButtonTapped:(UIBarButtonItem *)sender {
-}
-
 - (IBAction)addButtonTapped:(UIBarButtonItem *)sender {
     [self insertNewObject:sender];
 }
